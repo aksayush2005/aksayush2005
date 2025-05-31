@@ -32,9 +32,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsamal&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aksayush2005&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushsamal&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aksayush2005&theme=tokyonight"/>
 </p>
 
 ---
@@ -42,14 +42,13 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-kumar-samal-608178340"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-samal-608178340"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
  
 </p>
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushsamal&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aksayush2005&color=blueviolet" alt="Profile Views"/>
   <br/>
   <i>Let’s build something useful</i>
 </p>

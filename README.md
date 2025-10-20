@@ -8,11 +8,11 @@
 
 ### 🌟 About Me
 
-- 🎓 First-year Electronics & Instrumentation student at **NIT Rourkela**
+- 🎓 Undergrad in Electronics & Instrumentation student at **NIT Rourkela**
 - 🤖 Exploring the realms of **Machine Learning**, **Computer Vision**, and **Creative Tech**
 - 💡 Currently building: gesture-based tools, ML-powered apps, and full-stack experiences
 - 🛠️ Passionate about turning bold ideas into real-world innovations
-- 🧩 Always learning, always experimenting
+
 
 ---
 

@@ -29,6 +29,6 @@
 Languages   : Python • C/C++ • MATLAB • JavaScript
 AI / ML     : TensorFlow • PyTorch • OpenCV • Langchain •Langgraph •Langsmith
 Embedded    : Arduino • ESP32 • Sensors • Protocols •  Assembly
-Backend     : FastAPI • REST APIs • 
+Backend     : FastAPI • REST APIs 
 Tools       : Linux • Git 
 

@@ -1,54 +1,34 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#FF6F61">Ayush</span></h1>
+<!-- CYBER / NEON THEME README -->
+<!-- GitHub: aksayush2005 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Electronics+%7C+ML+Engineer+in+Making;Crafting+Futuristic+Projects+🛠️;Loves+to+Build+Cool+Stuff+%F0%9F%92%A1;Exploring+the+Tech+Universe+%F0%9F%8C%90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:7c3aed&height=180&section=header&text=Ayush%20Kumar%20Samal&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML%20%7C%20AI-00f5ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-7c3aed?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Robotics-22c55e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-ff0080?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🌟 About Me
-
-- 🎓 Undergrad in Electronics & Instrumentation at **NIT Rourkela**
-- 🤖 Exploring the realms of **Machine Learning**, **Astronomy**, **Electronics** and **Robotics**
-- 💡 Currently building: AI tools , ML-powered apps, and full-stack experiences
-
-
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FECE2A?style=for-the-badge&logo=google&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<div align="center">
+  <p style="max-width:720px; font-size:14px;">
+    I build intelligent systems by combining <b>machine learning</b>, <b>electronics</b>, and <b>software</b>.
+    From embedded devices to backend pipelines, I like understanding systems end-to-end.
+    I also have a quiet interest in rockets and space, purely from a curiosity and learning perspective.
+  </p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 TECH STACK
+```text
+Languages   : Python • C/C++ • MATLAB • JavaScript
+AI / ML     : TensorFlow • PyTorch • OpenCV • Langchain •Langgraph •Langsmith
+Embedded    : Arduino • ESP32 • Sensors • Protocols •  Assembly
+Backend     : FastAPI • REST APIs • 
+Tools       : Linux • Git 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksayush2005&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aksayush2005&theme=tokyonight"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-kumar-samal-608178340"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
- 
-</p>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aksayush2005&color=blueviolet" alt="Profile Views"/>
-  <br/>
-  <i>Let’s build something useful</i>
-</p>

@@ -24,7 +24,7 @@
 
 ---
 
-### 🧠 TECH STACK
+### TECH STACK
 ```text
 Languages   : Python • C/C++ • MATLAB • JavaScript
 AI / ML     : TensorFlow • PyTorch • OpenCV • Langchain •Langgraph •Langsmith

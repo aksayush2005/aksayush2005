@@ -9,7 +9,7 @@
   
   
   <img src="https://img.shields.io/badge/ML%20%7C%20AI-00f5ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLSI-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLSI%20Design-1e40af?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Embedded%20Systems-7c3aed?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Robotics-22c55e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend-ff0080?style=for-the-badge"/>

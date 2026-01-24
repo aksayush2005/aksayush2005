@@ -19,7 +19,7 @@
 
 <div align="center">
   <p style="max-width:720px; font-size:14px;">
-    I build intelligent systems by combining <b>VLSI</b>b>, <b>machine learning</b>, <b>electronics</b>, and <b>software</b>.
+    I build intelligent systems by combining <b>VLSI</b>, <b>machine learning</b>, <b>electronics</b>, and <b>software</b>.
     From embedded devices and chip designing to backend pipelines, I enjoy understanding systems end-to-end. I also have a quiet interest in space and rockets, driven purely by curiosity.
   </p>
 </div>

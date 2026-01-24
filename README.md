@@ -6,7 +6,10 @@
 </p>
 
 <p align="center">
+  
+  
   <img src="https://img.shields.io/badge/ML%20%7C%20AI-00f5ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLSI-0f172a?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Embedded%20Systems-7c3aed?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Robotics-22c55e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend-ff0080?style=for-the-badge"/>
@@ -16,9 +19,8 @@
 
 <div align="center">
   <p style="max-width:720px; font-size:14px;">
-    I build intelligent systems by combining <b>machine learning</b>, <b>electronics</b>, and <b>software</b>.
-    From embedded devices to backend pipelines, I like understanding systems end-to-end.
-    I also have a quiet interest in rockets and space, purely from a curiosity and learning perspective.
+    I build intelligent systems by combining <b>VLSI</b>b>, <b>machine learning</b>, <b>electronics</b>, and <b>software</b>.
+    From embedded devices and chip designing to backend pipelines, I enjoy understanding systems end-to-end. I also have a quiet interest in space and rockets, driven purely by curiosity.
   </p>
 </div>
 

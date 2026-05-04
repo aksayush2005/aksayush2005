@@ -9,18 +9,16 @@
   
   <img src="https://img.shields.io/badge/VLSI%20Design-1e40af?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/x86%20%7C%20RISC--V%20%7C%20ARM-0ea5e9?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/ML%20Systems%20%7C%20AI-00f5ff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ML%20Compilers-06b6d4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML%20Systems%20%7C%20AI-00f5ff?style=for-the-badge"/>
   
-  <img src="https://img.shields.io/badge/Embedded%20Systems-7c3aed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Robotics-22c55e?style=for-the-badge"/>
+  
   
   <img src="https://img.shields.io/badge/Backend%20Systems-ff0080?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DevOps-14b8a6?style=for-the-badge"/>
   
 </p>
----
+
 
 <div align="center">
   <p style="max-width:720px; font-size:14px;">

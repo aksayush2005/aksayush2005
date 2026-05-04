@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/x86%20%7C%20RISC--V%20%7C%20ARM-0ea5e9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ML%20Compilers-06b6d4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ML%20Systems%20%7C%20AI-00f5ff?style=for-the-badge"/>
-  
-  
-  
   <img src="https://img.shields.io/badge/Backend%20Systems-ff0080?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DevOps-14b8a6?style=for-the-badge"/>
   
@@ -23,7 +20,7 @@
 <div align="center">
   <p style="max-width:720px; font-size:14px;">
     I build intelligent systems by combining <b>VLSI</b>, <b>machine learning</b>, <b>electronics</b>, and <b>software</b>.
-    From embedded devices and chip designing to backend pipelines, I enjoy understanding systems end-to-end. I also have a quiet interest in space and rockets, driven purely by curiosity.
+    From vlsi designing to backend pipelines, I enjoy understanding systems end-to-end. I also have a quiet interest in space and rockets, driven purely by curiosity.
   </p>
 </div>
 
@@ -31,9 +28,8 @@
 
 ### TECH STACK
 ```text
-Languages   : Python • C/C++ • MATLAB • JavaScript
+Languages   : Python • C/C++ • MATLAB • JavaScript • Assembly
 AI / ML     : TensorFlow • PyTorch • OpenCV • Langchain •Langgraph •Langsmith
-Embedded    : Arduino • ESP32 • Sensors • Protocols •  Assembly
 Backend     : FastAPI • REST APIs 
 Tools       : Linux • Git 
 
